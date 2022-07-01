@@ -14,7 +14,7 @@ Everything about the implementation of the world app should be hidden. From with
 
 ### World/components & World/systems
 
-We divide the remaining tasks like setting up our camera, scene, lights, renderer, and window resizer into these folders. At first, they will be quite small and simple but ass your app grows it will be easier to control and manage.
+We divide the remaining tasks like setting up our camera, scene, lights, renderer, and window resizer into these folders. At first, they will be quite small and simple but as your app grows it will be easier to control and manage.
 
 Components - are anything that can be placed into the scene, like the cube, camera, and scene itself.
 
